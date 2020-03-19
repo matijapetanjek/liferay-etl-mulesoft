@@ -103,4 +103,10 @@
 			<url>https://repository-master.mulesoft.org/nexus/content/repositories/releases/</url>
 		</repository>
 	</repositories>
+	<scm>
+		<connection>scm:git:git://github.com/matijapetanjek/liferay-etl-mulesoft/</connection>
+		<developerConnection>scm:svn:https://github.com/matijapetanjek/liferay-etl-mulesoft/tree/release/1.0.0</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/matijapetanjek/liferay-etl-mulesoft/tree/release/1.0.0</url>
+	</scm>
 </project>
